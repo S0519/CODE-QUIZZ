@@ -1,4 +1,4 @@
-# CODE-QUIZZ
+# CODE-QUIZ
 
 This is a Quiz using Java-script.
 There are random questions and one answer.
