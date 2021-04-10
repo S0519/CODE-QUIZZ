@@ -72,14 +72,7 @@ let questions = [
         choiceC : "Oslo",
         correct : "A"
 
-
-
-
-
-
-
-
-
+    }
 ];
 
 // create some variables
@@ -87,7 +80,7 @@ let questions = [
 const lastQuestion = questions.length - 1;
 let runningQuestion = 0;
 let count = 0;
-const questionTime = 10; // 10s
+const questionTime = 5; // 5s
 const gaugeWidth = 150; // 150px
 const gaugeUnit = gaugeWidth / questionTime;
 let TIMER;
@@ -191,7 +184,7 @@ function scoreRender(){
               (scorePerCent >= 60) ? "assets/src/favicons/smile.png" :
               (scorePerCent >= 40) ? "assets/src/favicons/calm.png" :
               (scorePerCent >= 20) ? "assets/src/favicons/meeh.png" :
-              "assets/src/favicons/meeh.png";
+              "assets/src/favicons/sad.png";
     
     scoreDiv.innerHTML = "<img src="+ img +">";
     scoreDiv.innerHTML += "<p>"+ scorePerCent +"%</p>";

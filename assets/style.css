@@ -10,7 +10,7 @@ body{
     height: 300px;
     width : 700px;
     border-radius: 20px;
-    box-shadow: 5px;
+    box-shadow: 5px 5px 5px 5px;
     position: relative;
     /* display: flex;
     flex-wrap: wrap; */
