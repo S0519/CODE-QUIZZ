@@ -20,13 +20,17 @@ https://s0519.github.io/quiz-game/
 
 
 
-![Quiz1](https://user-images.githubusercontent.com/80322588/117844853-a4a9a180-b245-11eb-948c-5f26147f4cdd.png)
+![Quiz1 (2)](https://user-images.githubusercontent.com/80322588/117845442-2994bb00-b246-11eb-9dcf-303ca7fba18b.png)
 
-![Quiz2](https://user-images.githubusercontent.com/80322588/117844889-ad9a7300-b245-11eb-88ac-b9fef18b43fb.png)
 
-![Quiz3](https://user-images.githubusercontent.com/80322588/117844929-b723db00-b245-11eb-9850-5ca5988fda2a.png)
+![Quiz2 (2)](https://user-images.githubusercontent.com/80322588/117845475-30bbc900-b246-11eb-902f-c50b338a5d12.png)
 
-![Quiz4](https://user-images.githubusercontent.com/80322588/117844955-be4ae900-b245-11eb-9cc4-d0ae527745f9.png)
+
+![Quiz3 (2)](https://user-images.githubusercontent.com/80322588/117845492-36b1aa00-b246-11eb-9c51-cef31c0f4854.png)
+
+
+![Quiz4 (2)](https://user-images.githubusercontent.com/80322588/117845514-3d402180-b246-11eb-8716-591f42e88acb.png)
+
 
 
 
